@@ -11,7 +11,7 @@
 	<groupId>tilde</groupId>
 	<artifactId>invoicing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>invoicing</name>
 	<description>Invoicing project</description>
 	<url/>
